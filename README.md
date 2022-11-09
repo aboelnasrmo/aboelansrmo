@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/_aboelnasr_" target="blank"><img src="https://img.shields.io/twitter/follow/_aboelnasr_?logo=twitter&style=for-the-badge" alt="_aboelnasr_" /></a> </p>
 
-- 🔭 I’m currently working on **Child-moments**
 
 - 🌱 I’m currently learning **Flutter, Swift**
 
