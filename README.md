@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Aboelnasr</h1>
+<h1 align="center">Hi 👋, I'm Mo</h1>
 <h3 align="center">A passionate flutter dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboelnasrmo&label=Profile%20views&color=0e75b6&style=flat" alt="aboelnasrmo" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **abuenasr.m@gmail.com**
+- 📫 How to reach me **https://twitter.com/0xAboelnasr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
