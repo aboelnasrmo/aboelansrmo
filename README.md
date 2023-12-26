@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboelnasrmo" alt="aboelnasrmo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/0xAboelnasr" target="blank"><img src="https://img.shields.io/twitter/follow/0xAboelnasr?logo=twitter&style=for-the-badge" alt="0xAboelnasr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xAboelnasr" target="blank"><img src="https://img.shields.io/twitter/follow/MohAboelnasr?logo=twitter&style=for-the-badge" alt="MohAboelnasr" /></a> </p>
 
 
 - 🌱 I’m currently learning **Flutter**
