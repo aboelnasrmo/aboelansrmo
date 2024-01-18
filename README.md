@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/MohAboelnasr" target="blank"><img src="https://img.shields.io/twitter/follow/MohAboelnasr?logo=twitter&style=for-the-badge" alt="MohAboelnasr" /></a> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **SwiftUI**
 
 - 💬 Ask me about **Flutter**
 
