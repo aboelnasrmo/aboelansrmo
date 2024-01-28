@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter** and **SwiftUI**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** and **SwiftUI**
 
 - 📫 My Website **https://aboelnasr.com**
 
