@@ -45,7 +45,11 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aboelnasrmo/count.svg?"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/aboelnasrmo/aboelnasrmo/output/snake.svg" alt="Snake animation" />
 
