@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate Flutter & iOS developer from Egypt</h3>
+<h3 align="center">A passionate Flutter & iOS developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboelnasrmo&label=Profile%20views&color=0e75b6&style=flat" alt="aboelnasrmo" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mohaboelnasr" target="blank"><img src="https://img.shields.io/twitter/follow/mohaboelnasr?logo=twitter&style=for-the-badge" alt="mohaboelnasr" /></a> </p>
 
-- 🔭 I’m currently working on **Quran App**
+- 🔭 I’m currently working on **Quran App , PM simulator**
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👯 I’m looking to collaborate on **PM Exam Simulator**
+- 👯 I’m looking to collaborate on **Flutter and iOs apps**
 
 - 💬 Ask me about **Flutter , Swift , SwiftUI**
 
