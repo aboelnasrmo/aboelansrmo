@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohaboelnasr" target="blank"><img src="https://img.shields.io/twitter/follow/mohaboelnasr?logo=twitter&style=for-the-badge" alt="mohaboelnasr" /></a> </p>
 
-- 🔭 I’m currently working on **Quran App , PM simulator**
+- 🔭 I’m currently working on **Quran App ,PM simulator**
 
 - 🌱 I’m currently learning **SwiftUI**
 
