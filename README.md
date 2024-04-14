@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboelnasrmo" alt="aboelnasrmo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohaboelnasr" target="blank"><img src="https://img.shields.io/twitter/follow/mohaboelnasr?logo=twitter&style=for-the-badge" alt="mohaboelnasr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xaboelnasr" target="blank"><img src="https://img.shields.io/twitter/follow/mohaboelnasr?logo=twitter&style=for-the-badge" alt="xaboelnasr" /></a> </p>
 
 - 🔭 I’m currently working on **Quran App , PM simulator**
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/mohaboelnasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohaboelnasr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aboelnasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboelnasr" height="30" width="40" /></a>
 <a href="https://medium.com/@abouenasr.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abouenasr.m" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@aboelnasrmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aboelnasrmo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aboelnasrmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aboelnasrmo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
