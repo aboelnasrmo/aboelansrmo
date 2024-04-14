@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohaboelnasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohaboelnasr" height="30" width="40" /></a>
+<a href="https://twitter.com/xaboelnasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xaboelnasr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aboelnasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboelnasr" height="30" width="40" /></a>
 <a href="https://medium.com/@abouenasr.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abouenasr.m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@aboelnasrmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aboelnasrmo" height="30" width="40" /></a>
